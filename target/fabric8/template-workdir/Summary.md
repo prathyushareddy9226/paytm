@@ -1,0 +1,1 @@
+Camel route using Spring XML and Infinispan in a standalone Java container
